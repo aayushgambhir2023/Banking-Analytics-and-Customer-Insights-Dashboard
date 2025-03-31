@@ -1,4 +1,4 @@
-<h1 align="center">Financial Insights in Banking Data using Power BI</h1>
+<h1 align="center">Banking Analytics and Customer Insights Dashboard</h1>
 
 ---
 
