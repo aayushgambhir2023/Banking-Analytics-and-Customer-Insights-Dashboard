@@ -2,70 +2,50 @@
 
 ---
 
-<p align="center">
-    <img src="https://github.com/meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Banner.jpg" alt="Banner.jpg">
-</p>
+Project Overview
 
-## Project Overview
-This project leverages Power BI to provide in-depth financial insights for banking institutions. By analyzing 'Banking Transactions' and 'Customer Account Details' datasets, we aim to help banks make informed decisions about customer relationships, risk assessment, and product offerings.
+This project utilizes Power BI to deliver actionable financial insights for banking institutions. By analyzing datasets related to banking transactions and customer account details, the goal is to enhance decision-making in areas such as customer relationship management, risk assessment, and product optimization.
 
-## Key Features
-- **Data Cleaning and Standardization**: Removed failed transactions and reformatted datasets for consistency and accuracy.
-- **Data Relationships**: Established and optimized data relationships to ensure high data quality.
-- **Branch Efficiency Rating System**: Developed a system to rate branch efficiency, enhancing risk assessment and performance metrics.
-- **Credit Score Analysis**: Identified high-value transactions and analyzed credit scores for better risk management.
-- **Interactive Dashboard**: Created an interactive dashboard for comprehensive data visualization and insights.
+Key Features
 
-## Project Goals
-- Extract meaningful insights from banking data to support strategic decision-making.
-- Improve customer satisfaction through data-driven optimizations in banking services.
-- Identify new growth opportunities and predict future account growth using advanced data analysis techniques.
+Data Cleaning & Standardization: Removed failed transactions and standardized dataset formatting to ensure accuracy and consistency.
+Optimized Data Relationships: Established and refined data relationships to enhance data integrity and usability.
+Branch Performance Assessment: Designed a rating system to evaluate branch efficiency, aiding in risk assessment and performance benchmarking.
+Credit Score Insights: Identified high-value transactions and analyzed credit scores to improve risk management strategies.
+Interactive Dashboard: Developed an intuitive Power BI dashboard for dynamic data visualization and deeper insights.
+Project Objectives
 
-## Datasets Used
-1. **Banking Transactions**
-2. **Customer Account Details**
+Extract meaningful insights from financial data to support data-driven decision-making.
+Improve customer satisfaction through service optimizations driven by analytics.
+Identify growth opportunities and predict future account activity using advanced data analysis techniques.
+Datasets Used
 
-## Tools and Technologies
-- **Power BI**: For data visualization and dashboard creation.
-- **DAX (Data Analysis Expressions)**: For advanced data analysis and calculations.
-- **EDA (Exploratory Data Analysis)**: For initial data exploration and understanding.
-- **Data Cleaning**: Ensuring data quality and consistency.
+Banking Transactions – Records of customer transactions, including amounts, timestamps, and transaction types.
+Customer Account Details – Customer demographics, account types, and credit-related attributes.
+Tools & Technologies
 
-## Methodology
-1. **Data Import and Quality Check**: Imported both datasets into Power BI and checked for data quality issues.
-2. **Data Cleaning**: Removed failed transactions and standardized transaction amounts.
-3. **Data Merging**: Combined the datasets for comprehensive analysis.
-4. **Advanced Analysis using DAX**: 
-   - Analyzed transaction trends over time.
-   - Studied customer demographics and employment sectors.
-   - Analyzed loan amounts, interest rates, and credit scores.
-5. **Predictive Modeling**: Developed models to estimate future account growth based on transaction patterns.
-6. **Visualization**: Created interactive dashboards to present insights clearly and effectively.
+Power BI – For dashboard creation and data visualization.
+DAX (Data Analysis Expressions) – For advanced data calculations and metrics.
+Exploratory Data Analysis (EDA) – For identifying patterns and trends in raw data.
+Data Cleaning Techniques – To improve data accuracy and consistency.
+Methodology
 
-## Insights and Outcomes
-- **Branch Efficiency**: The rating system provided insights into branch performance and areas for improvement.
-- **Customer Analysis**: Detailed understanding of customer demographics and high-value transactions.
-- **Risk Assessment**: Enhanced risk management through comprehensive credit score analysis.
-- **Strategic Decision-Making**: Data-driven insights enabled informed strategic decisions, improving overall performance and customer satisfaction.
+Data Import & Quality Check – Loaded and validated datasets for inconsistencies.
+Data Cleaning & Transformation – Removed invalid transactions, standardized formats, and prepared data for analysis.
+Data Merging & Relationship Mapping – Integrated datasets for comprehensive analysis.
+Advanced Analytics with DAX:
+Identified transaction trends and patterns.
+Analyzed customer demographics and financial behavior.
+Assessed loan amounts, interest rates, and credit scores.
+Predictive Modeling – Estimated future account growth based on historical transaction patterns.
+Data Visualization – Designed an interactive dashboard to present insights clearly and effectively.
+Key Insights & Outcomes
 
-<p align="center">
-    <img src="https://github.com/meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Power%20Bi%20Dashboard%20Image.png" alt="Power Bi Dashboard Image">
-</p>
+Branch Efficiency Metrics – Provided data-driven insights into branch performance and areas for improvement.
+Customer Behavior Analysis – Identified high-value customers and spending trends.
+Risk Management Enhancements – Strengthened credit score analysis for better risk mitigation.
+Strategic Decision Support – Enabled banking institutions to make informed, data-driven business decisions.
+<p align="center"> <img src="https://github.com/meabhaykr/Financial-Insights-in-Banking-Data-using-PowerBI/blob/main/Power%20Bi%20Dashboard%20Image.png" alt="Power BI Dashboard"> </p>
+Conclusion
 
-## Project Link
-[Access the project files and dashboard](https://drive.google.com/drive/folders/12JehfBqbzBIicYZ1lYkcQi65iE3BKKoH?usp=sharing)
-
-## Conclusion
-This project demonstrates the power of data analysis and visualization in transforming raw banking data into actionable insights. By leveraging Power BI and advanced analytics, banking institutions can optimize their services, manage risks more effectively, and enhance customer satisfaction.
-
----
-
-Feel free to explore the project files and interactive dashboard via the provided link. If you have any questions or feedback, please reach out!
-
-## Contact
-For any inquiries or support, please contact at meabhaykr@gmail.com
-
----
-
-Happy analyzing!
-
+This project highlights the impact of data analytics in banking by transforming raw financial data into meaningful insights. Leveraging Power BI and predictive analytics, banks can enhance risk assessment, optimize service delivery, and drive better business outcomes.
